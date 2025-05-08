@@ -16,4 +16,7 @@ class LinkedList
 public:
     LinkedList()
     {
-        
+        START = NULL;
+    }
+
+    
